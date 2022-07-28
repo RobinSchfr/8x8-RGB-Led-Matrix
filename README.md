@@ -13,6 +13,7 @@ A 8x8-RGB-Led-Matrix display is installed in the inside of my PC. The display is
 
 ## Demonstration
 ### IDLE Mode
+[Watch here](https://ucarecdn.com/0d49ffbd-5bf2-420d-8cee-89bc8495b345/)
 
 ### Snake Game
-[![VID-20220728-WA0000.gif](https://i.postimg.cc/d0ggRHx5/VID-20220728-WA0000.gif)](https://postimg.cc/HJ4Sd2HM)
+[Watch here](https://ucarecdn.com/7c39bd2d-8acf-4f6c-9eea-3a0ea47bfd9d/)
